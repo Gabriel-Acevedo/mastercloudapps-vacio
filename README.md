@@ -6,7 +6,7 @@ blablabla
 
 blablabla mas rollo
 
-Una doc mas extensa se encuenttra en http://blablabla/index.html
+Una doc mas extensa se encuenttra en https://blablabla/index.html
 
 ## Otra Seccion
 
